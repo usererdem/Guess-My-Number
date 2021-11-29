@@ -7,3 +7,4 @@ When you find the number your score will be written on the highscore part if it 
 
 You can try the game from the link down below
 https://usererdem.github.io/Guess-My-Number/
+https://www.instagram.com/p/CWwGIMylQI9/
